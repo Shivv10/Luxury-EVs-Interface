@@ -61,8 +61,6 @@ The project aims to enhance user experience and interface design following HCI p
 
 \
 \
-\
-
 ## Group Members
 [Shiv Gandhi](https://github.com/Shivv10) \
 [Andrew Iheanacho](https://github.com/Andrew-Ih) \
